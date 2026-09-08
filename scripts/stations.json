@@ -1,0 +1,141 @@
+[
+  {
+    "name": "Вересоч",
+    "param": "sid",
+    "id": "169",
+    "label_order": [
+      "На Ніжин",
+      "З Ніжина"
+    ],
+    "segments": [
+      {
+        "counterpart": "Ніжин",
+        "toward_label": "На Ніжин",
+        "from_label": "З Ніжина"
+      }
+    ]
+  },
+  {
+    "name": "Носівка",
+    "param": "sid",
+    "id": "52",
+    "label_order": [
+      "На Київ",
+      "На Ніжин"
+    ],
+    "segments": [
+      {
+        "counterpart": "Ніжин",
+        "toward_label": "На Ніжин",
+        "from_label": "На Київ"
+      },
+      {
+        "counterpart": "Київ-Пасажирський",
+        "toward_label": "На Київ",
+        "from_label": "На Ніжин"
+      },
+      {
+        "counterpart": "Київ-Волинський",
+        "toward_label": "На Київ",
+        "from_label": "На Ніжин"
+      }
+    ]
+  },
+  {
+    "name": "Тарасівка",
+    "param": "sid",
+    "id": "7",
+    "label_order": [
+      "На Київ",
+      "З Києва"
+    ],
+    "segments": [
+      {
+        "counterpart": "Київ-Пасажирський",
+        "toward_label": "На Київ",
+        "from_label": "З Києва"
+      },
+      {
+        "counterpart": "Київ-Волинський",
+        "toward_label": "На Київ",
+        "from_label": "З Києва"
+      }
+    ]
+  },
+  {
+    "name": "Ніжин",
+    "param": "sid",
+    "id": "56",
+    "label_order": [
+      "З Києва",
+      "На Київ",
+      "На Чернігів",
+      "З Чернігова"
+    ],
+    "segments": [
+      {
+        "counterpart": "Вересоч",
+        "toward_label": "На Чернігів",
+        "from_label": "З Чернігова"
+      },
+      {
+        "counterpart": "Київ-Пасажирський",
+        "toward_label": "На Київ",
+        "from_label": "З Києва"
+      },
+      {
+        "counterpart": "Київ-Волинський",
+        "toward_label": "На Київ",
+        "from_label": "З Києва"
+      }
+    ],
+    "drop_unmatched": true
+  },
+  {
+    "name": "Київ-Волинський",
+    "param": "sid",
+    "id": "4",
+    "label_order": [
+      "На Ніжин",
+      "З Ніжина",
+      "На Фастів",
+      "З Фастова"
+    ],
+    "segments": [
+      {
+        "counterpart": "Ніжин",
+        "toward_label": "На Ніжин",
+        "from_label": "З Ніжина"
+      },
+      {
+        "counterpart": "Тарасівка",
+        "toward_label": "На Фастів",
+        "from_label": "З Фастова"
+      }
+    ]
+  },
+  {
+    "name": "Київ-Пасажирський",
+    "param": "geo",
+    "id": "375",
+    "drop_unmatched": true,
+    "label_order": [
+      "На Ніжин",
+      "З Ніжина",
+      "На Фастів",
+      "З Фастова"
+    ],
+    "segments": [
+      {
+        "counterpart": "Ніжин",
+        "toward_label": "На Ніжин",
+        "from_label": "З Ніжина"
+      },
+      {
+        "counterpart": "Тарасівка",
+        "toward_label": "На Фастів",
+        "from_label": "З Фастова"
+      }
+    ]
+  }
+]

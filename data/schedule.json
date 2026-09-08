@@ -1,0 +1,3955 @@
+{
+  "generated_at": "2026-09-08T06:38:19.059374",
+  "days": [
+    {
+      "date": "2026-09-07",
+      "stations": {
+        "Вересоч": {
+          "groups": [
+            {
+              "label": "На Ніжин",
+              "trains": [
+                {
+                  "number": "6302",
+                  "tid": "30085",
+                  "frequency": "щоденно",
+                  "route": "Чернігів – Ніжин",
+                  "stop": "Вересоч",
+                  "arrival": "06:29",
+                  "departure": "06:34",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "886/885",
+                  "tid": "29870",
+                  "frequency": "крім ср.",
+                  "route": "Славутич – Київ-Волинський",
+                  "stop": "Вересоч",
+                  "arrival": "06:57",
+                  "departure": "06:58",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6304",
+                  "tid": "28581",
+                  "frequency": "щоденно",
+                  "route": "Чернігів – Ніжин",
+                  "stop": "Вересоч",
+                  "arrival": "09:34",
+                  "departure": "09:35",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6308",
+                  "tid": "28588",
+                  "frequency": "щоденно",
+                  "route": "Чернігів – Ніжин",
+                  "stop": "Вересоч",
+                  "arrival": "14:49",
+                  "departure": "14:50",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6310",
+                  "tid": "30100",
+                  "frequency": "щоденно",
+                  "route": "Чернігів – Ніжин",
+                  "stop": "Вересоч",
+                  "arrival": "18:46",
+                  "departure": "18:47",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6312",
+                  "tid": "28633",
+                  "frequency": "щоденно",
+                  "route": "Чернігів – Ніжин",
+                  "stop": "Вересоч",
+                  "arrival": "21:43",
+                  "departure": "21:44",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                }
+              ]
+            },
+            {
+              "label": "З Ніжина",
+              "trains": [
+                {
+                  "number": "6301",
+                  "tid": "30084",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Чернігів",
+                  "stop": "Вересоч",
+                  "arrival": "06:32",
+                  "departure": "06:33",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6303",
+                  "tid": "30086",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Чернігів",
+                  "stop": "Вересоч",
+                  "arrival": "09:33",
+                  "departure": "09:36",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6305",
+                  "tid": "27731",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Чернігів",
+                  "stop": "Вересоч",
+                  "arrival": "13:45",
+                  "departure": "13:46",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6309",
+                  "tid": "30099",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Чернігів",
+                  "stop": "Вересоч",
+                  "arrival": "18:20",
+                  "departure": "18:21",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "886/885",
+                  "tid": "29867",
+                  "frequency": "крім ср.",
+                  "route": "Київ-Волинський – Чернігів",
+                  "stop": "Вересоч",
+                  "arrival": "20:20",
+                  "departure": "20:21",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6311",
+                  "tid": "27606",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Чернігів",
+                  "stop": "Вересоч",
+                  "arrival": "21:16",
+                  "departure": "21:17",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                }
+              ]
+            }
+          ]
+        },
+        "Носівка": {
+          "groups": [
+            {
+              "label": "На Київ",
+              "trains": [
+                {
+                  "number": "6903",
+                  "tid": "30271",
+                  "frequency": "крім сб., нд.",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Носівка",
+                  "arrival": "04:11",
+                  "departure": "04:12",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6905",
+                  "tid": "30140",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Волинський",
+                  "stop": "Носівка",
+                  "arrival": "04:35",
+                  "departure": "04:36",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6909",
+                  "tid": "30273",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Волинський",
+                  "stop": "Носівка",
+                  "arrival": "05:29",
+                  "departure": "05:30",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "893",
+                  "tid": "30535",
+                  "frequency": "щоденно",
+                  "route": "Конотоп - Пас – Київ-Пас. (Північна)",
+                  "stop": "Носівка",
+                  "arrival": "05:47",
+                  "departure": "05:48",
+                  "valid_from": "2026-08-20",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6911",
+                  "tid": "30147",
+                  "frequency": "крім сб., нд.",
+                  "route": "Ніжин – Київ-Волинський",
+                  "stop": "Носівка",
+                  "arrival": "06:18",
+                  "departure": "06:19",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "886/885",
+                  "tid": "29870",
+                  "frequency": "крім ср.",
+                  "route": "Славутич – Київ-Волинський",
+                  "stop": "Носівка",
+                  "arrival": "07:53",
+                  "departure": "07:54",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6913",
+                  "tid": "30082",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Носівка",
+                  "arrival": "08:45",
+                  "departure": "08:46",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "896/895",
+                  "tid": "29881",
+                  "frequency": "щоденно",
+                  "route": "Шостка – Фастів-1",
+                  "stop": "Носівка",
+                  "arrival": "08:54",
+                  "departure": "08:55",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6917",
+                  "tid": "30089",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Носівка",
+                  "arrival": "11:34",
+                  "departure": "11:35",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "897",
+                  "tid": "30107",
+                  "frequency": "крім пт., сб., нд.",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Носівка",
+                  "arrival": "15:08",
+                  "departure": "15:09",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6923",
+                  "tid": "30093",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Носівка",
+                  "arrival": "15:42",
+                  "departure": "15:43",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6925",
+                  "tid": "30454",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Носівка",
+                  "arrival": "17:03",
+                  "departure": "17:04",
+                  "valid_from": "2026-07-03",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "892/891",
+                  "tid": "29156",
+                  "frequency": "крім вт., чт.",
+                  "route": "Славутич – Київ-Волинський",
+                  "stop": "Носівка",
+                  "arrival": "20:02",
+                  "departure": "20:03",
+                  "valid_from": "2026-01-22",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6927",
+                  "tid": "30096",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Волинський",
+                  "stop": "Носівка",
+                  "arrival": "20:46",
+                  "departure": "20:47",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                }
+              ]
+            },
+            {
+              "label": "На Ніжин",
+              "trains": [
+                {
+                  "number": "6902",
+                  "tid": "30136",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Носівка",
+                  "arrival": "07:08",
+                  "departure": "07:09",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "892/891",
+                  "tid": "29157",
+                  "frequency": "крім вт., чт.",
+                  "route": "Фастів-1 – Славутич",
+                  "stop": "Носівка",
+                  "arrival": "09:48",
+                  "departure": "09:49",
+                  "valid_from": "2026-01-22",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6906",
+                  "tid": "30141",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Північна) – Ніжин",
+                  "stop": "Носівка",
+                  "arrival": "10:10",
+                  "departure": "10:11",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "894",
+                  "tid": "30104",
+                  "frequency": "крім пт., сб., нд.",
+                  "route": "Київ-Пас. (Північна) – Ніжин",
+                  "stop": "Носівка",
+                  "arrival": "10:42",
+                  "departure": "10:43",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6910",
+                  "tid": "30146",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Носівка",
+                  "arrival": "12:04",
+                  "departure": "12:05",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6912",
+                  "tid": "30081",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Носівка",
+                  "arrival": "14:23",
+                  "departure": "14:24",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6914",
+                  "tid": "28474",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Північна) – Ніжин",
+                  "stop": "Носівка",
+                  "arrival": "16:53",
+                  "departure": "16:54",
+                  "valid_from": "2026-08-01",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "896/895",
+                  "tid": "30584",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Шостка",
+                  "stop": "Носівка",
+                  "arrival": "18:53",
+                  "departure": "18:54",
+                  "valid_from": "2026-09-05",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6918",
+                  "tid": "30091",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Носівка",
+                  "arrival": "19:05",
+                  "departure": "19:06",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "886/885",
+                  "tid": "29867",
+                  "frequency": "крім ср.",
+                  "route": "Київ-Волинський – Чернігів",
+                  "stop": "Носівка",
+                  "arrival": "19:24",
+                  "departure": "19:25",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6920",
+                  "tid": "30092",
+                  "frequency": "крім сб., нд.",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Носівка",
+                  "arrival": "19:39",
+                  "departure": "19:40",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "898",
+                  "tid": "30366",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Носівка",
+                  "arrival": "19:57",
+                  "departure": "19:58",
+                  "valid_from": "2026-07-15",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6926",
+                  "tid": "30095",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Північна) – Ніжин",
+                  "stop": "Носівка",
+                  "arrival": "21:38",
+                  "departure": "21:39",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6928",
+                  "tid": "30097",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Носівка",
+                  "arrival": "23:07",
+                  "departure": "23:08",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                }
+              ]
+            }
+          ]
+        },
+        "Тарасівка": {
+          "groups": [
+            {
+              "label": "На Київ",
+              "trains": [
+                {
+                  "number": "6002",
+                  "tid": "30365",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Київ-Пас. (Приміський)",
+                  "stop": "Тарасівка",
+                  "arrival": "05:23",
+                  "departure": "05:24",
+                  "valid_from": "2026-07-06",
+                  "valid_to": "2027-07-06",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6004",
+                  "tid": "30080",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Київ-Пас. (Приміський)",
+                  "stop": "Тарасівка",
+                  "arrival": "06:25",
+                  "departure": "06:26",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6044",
+                  "tid": "30460",
+                  "frequency": "щоденно",
+                  "route": "Васильків-Центр – Київ-Пас. (Приміський)",
+                  "stop": "Тарасівка",
+                  "arrival": "07:08",
+                  "departure": "07:09",
+                  "valid_from": "2026-08-03",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6202/6006",
+                  "tid": "30458",
+                  "frequency": "щоденно",
+                  "route": "Козятин-1 – Київ-Пас. (Північна)",
+                  "stop": "Тарасівка",
+                  "arrival": "07:17",
+                  "departure": "07:18",
+                  "valid_from": "2026-08-02",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6231/6008",
+                  "tid": "30166",
+                  "frequency": "щоденно",
+                  "route": "Миронівка – Київ-Пас. (Приміський)",
+                  "stop": "Тарасівка",
+                  "arrival": "07:45",
+                  "departure": "07:46",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6010",
+                  "tid": "30313",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Київ-Пас. (Приміський)",
+                  "stop": "Тарасівка",
+                  "arrival": "08:23",
+                  "departure": "08:24",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6204/6012",
+                  "tid": "30588",
+                  "frequency": "щоденно",
+                  "route": "Козятин-1 – Київ-Пас. (Приміський)",
+                  "stop": "Тарасівка",
+                  "arrival": "08:53",
+                  "departure": "08:54",
+                  "valid_from": "2026-09-05",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6046",
+                  "tid": "23274",
+                  "frequency": "щоденно",
+                  "route": "Васильків-Центр – Київ-Пас. (Приміський)",
+                  "stop": "Тарасівка",
+                  "arrival": "10:19",
+                  "departure": "10:20",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6018",
+                  "tid": "30527",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Київ-Пас. (Приміський)",
+                  "stop": "Тарасівка",
+                  "arrival": "13:32",
+                  "departure": "13:33",
+                  "valid_from": "2026-08-29",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6210/6020",
+                  "tid": "30586",
+                  "frequency": "щоденно",
+                  "route": "Козятин-1 – Київ-Пас. (Приміський)",
+                  "stop": "Тарасівка",
+                  "arrival": "15:23",
+                  "departure": "15:24",
+                  "valid_from": "2026-09-05",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6235/6024",
+                  "tid": "30170",
+                  "frequency": "щоденно",
+                  "route": "Миронівка – Київ-Пас. (Північна)",
+                  "stop": "Тарасівка",
+                  "arrival": "17:24",
+                  "departure": "17:25",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6026",
+                  "tid": "30403",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Київ-Пас. (Приміський)",
+                  "stop": "Тарасівка",
+                  "arrival": "18:41",
+                  "departure": "18:42",
+                  "valid_from": "2026-07-27",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6050",
+                  "tid": "25277",
+                  "frequency": "щоденно",
+                  "route": "Васильків-Центр – Київ-Пас. (Приміський)",
+                  "stop": "Тарасівка",
+                  "arrival": "19:18",
+                  "departure": "19:19",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6030",
+                  "tid": "30317",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Київ-Пас. (Приміський)",
+                  "stop": "Тарасівка",
+                  "arrival": "21:18",
+                  "departure": "21:19",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                }
+              ]
+            },
+            {
+              "label": "З Києва",
+              "trains": [
+                {
+                  "number": "6003",
+                  "tid": "29046",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Фастів-1",
+                  "stop": "Тарасівка",
+                  "arrival": "06:23",
+                  "departure": "06:24",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6005/6236",
+                  "tid": "30382",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Миронівка",
+                  "stop": "Тарасівка",
+                  "arrival": "08:07",
+                  "departure": "08:08",
+                  "valid_from": "2026-07-15",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6043",
+                  "tid": "30265",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Васильків-Центр",
+                  "stop": "Тарасівка",
+                  "arrival": "08:47",
+                  "departure": "08:48",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6011",
+                  "tid": "30402",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Фастів-1",
+                  "stop": "Тарасівка",
+                  "arrival": "09:17",
+                  "departure": "09:18",
+                  "valid_from": "2026-07-27",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6015",
+                  "tid": "28671",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Північна) – Фастів-1",
+                  "stop": "Тарасівка",
+                  "arrival": "11:19",
+                  "departure": "11:20",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6017/6209",
+                  "tid": "30157",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Козятин-1",
+                  "stop": "Тарасівка",
+                  "arrival": "12:53",
+                  "departure": "12:54",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6023/6238",
+                  "tid": "26800",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Миронівка",
+                  "stop": "Тарасівка",
+                  "arrival": "16:12",
+                  "departure": "16:13",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6047",
+                  "tid": "30267",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Васильків-Центр",
+                  "stop": "Тарасівка",
+                  "arrival": "17:48",
+                  "departure": "17:49",
+                  "valid_from": "2026-08-29",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "7035",
+                  "tid": "30530",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Фастів-1",
+                  "stop": "Тарасівка",
+                  "arrival": "17:55",
+                  "departure": "17:56",
+                  "valid_from": "2026-08-29",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6025",
+                  "tid": "30569",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Фастів-1",
+                  "stop": "Тарасівка",
+                  "arrival": "18:05",
+                  "departure": "18:06",
+                  "valid_from": "2026-08-29",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6027/6213",
+                  "tid": "30570",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Козятин-1",
+                  "stop": "Тарасівка",
+                  "arrival": "18:57",
+                  "departure": "18:58",
+                  "valid_from": "2026-08-29",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6029",
+                  "tid": "30456",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Північна) – Фастів-1",
+                  "stop": "Тарасівка",
+                  "arrival": "20:03",
+                  "departure": "20:04",
+                  "valid_from": "2025-07-03",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6049",
+                  "tid": "30268",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Васильків-Центр",
+                  "stop": "Тарасівка",
+                  "arrival": "20:21",
+                  "departure": "20:22",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6031",
+                  "tid": "30308",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Фастів-1",
+                  "stop": "Тарасівка",
+                  "arrival": "21:04",
+                  "departure": "21:05",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6033",
+                  "tid": "30309",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Фастів-1",
+                  "stop": "Тарасівка",
+                  "arrival": "22:24",
+                  "departure": "22:25",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                }
+              ]
+            },
+            {
+              "label": "Інше",
+              "trains": [
+                {
+                  "number": "6540",
+                  "tid": "25234",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Святошин",
+                  "stop": "Тарасівка",
+                  "arrival": "06:39",
+                  "departure": "06:40",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6541",
+                  "tid": "30156",
+                  "frequency": "щоденно",
+                  "route": "Святошин – Фастів-1",
+                  "stop": "Тарасівка",
+                  "arrival": "17:29",
+                  "departure": "17:30",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                }
+              ]
+            }
+          ]
+        },
+        "Ніжин": {
+          "groups": [
+            {
+              "label": "З Києва",
+              "trains": [
+                {
+                  "number": "6902",
+                  "tid": "30136",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "07:32",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "892/891",
+                  "tid": "29157",
+                  "frequency": "крім вт., чт.",
+                  "route": "Фастів-1 – Славутич",
+                  "stop": "Ніжин",
+                  "arrival": "10:04",
+                  "departure": "10:06",
+                  "valid_from": "2026-01-22",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6906",
+                  "tid": "30141",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Північна) – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "10:33",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6910",
+                  "tid": "30146",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "12:27",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6912",
+                  "tid": "30081",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "14:49",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6914",
+                  "tid": "28474",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Північна) – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "17:20",
+                  "departure": null,
+                  "valid_from": "2026-08-01",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "896/895",
+                  "tid": "30584",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Шостка",
+                  "stop": "Ніжин",
+                  "arrival": "19:10",
+                  "departure": "19:12",
+                  "valid_from": "2026-09-05",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6918",
+                  "tid": "30091",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "19:28",
+                  "departure": null,
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "898",
+                  "tid": "30366",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "20:15",
+                  "departure": null,
+                  "valid_from": "2026-07-15",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6926",
+                  "tid": "30095",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Північна) – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "22:05",
+                  "departure": null,
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6928",
+                  "tid": "30097",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "23:34",
+                  "departure": null,
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                }
+              ]
+            },
+            {
+              "label": "На Київ",
+              "trains": [
+                {
+                  "number": "6905",
+                  "tid": "30140",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Волинський",
+                  "stop": "Ніжин",
+                  "arrival": null,
+                  "departure": "04:10",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6909",
+                  "tid": "30273",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Волинський",
+                  "stop": "Ніжин",
+                  "arrival": null,
+                  "departure": "05:05",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "893",
+                  "tid": "30535",
+                  "frequency": "щоденно",
+                  "route": "Конотоп - Пас – Київ-Пас. (Північна)",
+                  "stop": "Ніжин",
+                  "arrival": "05:30",
+                  "departure": "05:32",
+                  "valid_from": "2026-08-20",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6913",
+                  "tid": "30082",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Ніжин",
+                  "arrival": null,
+                  "departure": "08:21",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "896/895",
+                  "tid": "29881",
+                  "frequency": "щоденно",
+                  "route": "Шостка – Фастів-1",
+                  "stop": "Ніжин",
+                  "arrival": "08:34",
+                  "departure": "08:37",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6917",
+                  "tid": "30089",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Ніжин",
+                  "arrival": null,
+                  "departure": "11:10",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6923",
+                  "tid": "30093",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Ніжин",
+                  "arrival": null,
+                  "departure": "15:18",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6925",
+                  "tid": "30454",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Ніжин",
+                  "arrival": null,
+                  "departure": "16:38",
+                  "valid_from": "2026-07-03",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "892/891",
+                  "tid": "29156",
+                  "frequency": "крім вт., чт.",
+                  "route": "Славутич – Київ-Волинський",
+                  "stop": "Ніжин",
+                  "arrival": "19:44",
+                  "departure": "19:47",
+                  "valid_from": "2026-01-22",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6927",
+                  "tid": "30096",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Волинський",
+                  "stop": "Ніжин",
+                  "arrival": null,
+                  "departure": "20:22",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                }
+              ]
+            },
+            {
+              "label": "На Чернігів",
+              "trains": [
+                {
+                  "number": "6301",
+                  "tid": "30084",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Чернігів",
+                  "stop": "Ніжин",
+                  "arrival": null,
+                  "departure": "05:42",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6303",
+                  "tid": "30086",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Чернігів",
+                  "stop": "Ніжин",
+                  "arrival": null,
+                  "departure": "08:43",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6305",
+                  "tid": "27731",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Чернігів",
+                  "stop": "Ніжин",
+                  "arrival": null,
+                  "departure": "12:55",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6309",
+                  "tid": "30099",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Чернігів",
+                  "stop": "Ніжин",
+                  "arrival": null,
+                  "departure": "17:30",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "886/885",
+                  "tid": "29867",
+                  "frequency": "крім ср.",
+                  "route": "Київ-Волинський – Чернігів",
+                  "stop": "Ніжин",
+                  "arrival": "19:44",
+                  "departure": "19:47",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6311",
+                  "tid": "27606",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Чернігів",
+                  "stop": "Ніжин",
+                  "arrival": null,
+                  "departure": "20:26",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                }
+              ]
+            },
+            {
+              "label": "З Чернігова",
+              "trains": [
+                {
+                  "number": "6302",
+                  "tid": "30085",
+                  "frequency": "щоденно",
+                  "route": "Чернігів – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "07:24",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "886/885",
+                  "tid": "29870",
+                  "frequency": "крім ср.",
+                  "route": "Славутич – Київ-Волинський",
+                  "stop": "Ніжин",
+                  "arrival": "07:32",
+                  "departure": "07:35",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6304",
+                  "tid": "28581",
+                  "frequency": "щоденно",
+                  "route": "Чернігів – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "10:31",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6308",
+                  "tid": "28588",
+                  "frequency": "щоденно",
+                  "route": "Чернігів – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "15:40",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6310",
+                  "tid": "30100",
+                  "frequency": "щоденно",
+                  "route": "Чернігів – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "19:37",
+                  "departure": null,
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6312",
+                  "tid": "28633",
+                  "frequency": "щоденно",
+                  "route": "Чернігів – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "22:34",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                }
+              ]
+            }
+          ]
+        },
+        "Київ-Волинський": {
+          "groups": []
+        },
+        "Київ-Пасажирський": {
+          "groups": [
+            {
+              "label": "На Ніжин",
+              "trains": [
+                {
+                  "number": "6902",
+                  "tid": "30136",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "04:53",
+                  "departure": "04:56",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6906",
+                  "tid": "30141",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Північна) – Ніжин",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": null,
+                  "departure": "07:52",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "892/891",
+                  "tid": "29157",
+                  "frequency": "крім вт., чт.",
+                  "route": "Фастів-1 – Славутич",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "08:18",
+                  "departure": "08:21",
+                  "valid_from": "2026-01-22",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6910",
+                  "tid": "30146",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "09:54",
+                  "departure": "09:56",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6912",
+                  "tid": "30081",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "12:09",
+                  "departure": "12:11",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6914",
+                  "tid": "28474",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Північна) – Ніжин",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": null,
+                  "departure": "14:40",
+                  "valid_from": "2026-08-01",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6918",
+                  "tid": "30091",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "16:39",
+                  "departure": "16:42",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "896/895",
+                  "tid": "30584",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Шостка",
+                  "stop": "Київ-Пас.",
+                  "arrival": "17:10",
+                  "departure": "17:25",
+                  "valid_from": "2026-09-05",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "886/885",
+                  "tid": "29867",
+                  "frequency": "крім ср.",
+                  "route": "Київ-Волинський – Чернігів",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "17:40",
+                  "departure": "17:43",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "898",
+                  "tid": "30366",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "18:19",
+                  "departure": "18:22",
+                  "valid_from": "2026-07-15",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6926",
+                  "tid": "30095",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Північна) – Ніжин",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": null,
+                  "departure": "19:24",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6928",
+                  "tid": "30097",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "20:48",
+                  "departure": "20:51",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                }
+              ]
+            },
+            {
+              "label": "З Ніжина",
+              "trains": [
+                {
+                  "number": "6905",
+                  "tid": "30140",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Волинський",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "06:50",
+                  "departure": "06:53",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "893",
+                  "tid": "30535",
+                  "frequency": "щоденно",
+                  "route": "Конотоп - Пас – Київ-Пас. (Північна)",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "07:27",
+                  "departure": null,
+                  "valid_from": "2026-08-20",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6909",
+                  "tid": "30273",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Волинський",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "07:51",
+                  "departure": "07:54",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "886/885",
+                  "tid": "29870",
+                  "frequency": "крім ср.",
+                  "route": "Славутич – Київ-Волинський",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "09:31",
+                  "departure": "09:34",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "896/895",
+                  "tid": "29881",
+                  "frequency": "щоденно",
+                  "route": "Шостка – Фастів-1",
+                  "stop": "Київ-Пас.",
+                  "arrival": "10:20",
+                  "departure": "10:34",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6913",
+                  "tid": "30082",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "11:01",
+                  "departure": null,
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6917",
+                  "tid": "30089",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "13:45",
+                  "departure": null,
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6923",
+                  "tid": "30093",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "17:50",
+                  "departure": null,
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6925",
+                  "tid": "30454",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "19:31",
+                  "departure": null,
+                  "valid_from": "2026-07-03",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "892/891",
+                  "tid": "29156",
+                  "frequency": "крім вт., чт.",
+                  "route": "Славутич – Київ-Волинський",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "21:29",
+                  "departure": "21:32",
+                  "valid_from": "2026-01-22",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6927",
+                  "tid": "30096",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Волинський",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "22:51",
+                  "departure": "22:54",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                }
+              ]
+            },
+            {
+              "label": "На Фастів",
+              "trains": [
+                {
+                  "number": "6003",
+                  "tid": "29046",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Фастів-1",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": null,
+                  "departure": "06:00",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6005/6236",
+                  "tid": "30382",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Миронівка",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": null,
+                  "departure": "07:44",
+                  "valid_from": "2026-07-15",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6043",
+                  "tid": "30265",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Васильків-Центр",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": null,
+                  "departure": "08:25",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6011",
+                  "tid": "30402",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Фастів-1",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": null,
+                  "departure": "08:53",
+                  "valid_from": "2026-07-27",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6015",
+                  "tid": "28671",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Північна) – Фастів-1",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": null,
+                  "departure": "10:56",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6017/6209",
+                  "tid": "30157",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Козятин-1",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": null,
+                  "departure": "12:30",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6023/6238",
+                  "tid": "26800",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Миронівка",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": null,
+                  "departure": "15:48",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6047",
+                  "tid": "30267",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Васильків-Центр",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": null,
+                  "departure": "17:25",
+                  "valid_from": "2026-08-29",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "7035",
+                  "tid": "30530",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Фастів-1",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": null,
+                  "departure": "17:33",
+                  "valid_from": "2026-08-29",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6025",
+                  "tid": "30569",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Фастів-1",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": null,
+                  "departure": "17:41",
+                  "valid_from": "2026-08-29",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6027/6213",
+                  "tid": "30570",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Козятин-1",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": null,
+                  "departure": "18:33",
+                  "valid_from": "2026-08-29",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6029",
+                  "tid": "30456",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Північна) – Фастів-1",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": null,
+                  "departure": "19:34",
+                  "valid_from": "2025-07-03",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6049",
+                  "tid": "30268",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Васильків-Центр",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": null,
+                  "departure": "19:57",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6031",
+                  "tid": "30308",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Фастів-1",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": null,
+                  "departure": "20:41",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6033",
+                  "tid": "30309",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Фастів-1",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": null,
+                  "departure": "22:00",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                }
+              ]
+            },
+            {
+              "label": "З Фастова",
+              "trains": [
+                {
+                  "number": "6002",
+                  "tid": "30365",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Київ-Пас. (Приміський)",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": "05:48",
+                  "departure": null,
+                  "valid_from": "2026-07-06",
+                  "valid_to": "2027-07-06",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6004",
+                  "tid": "30080",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Київ-Пас. (Приміський)",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": "06:49",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6044",
+                  "tid": "30460",
+                  "frequency": "щоденно",
+                  "route": "Васильків-Центр – Київ-Пас. (Приміський)",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": "07:42",
+                  "departure": null,
+                  "valid_from": "2026-08-03",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6202/6006",
+                  "tid": "30458",
+                  "frequency": "щоденно",
+                  "route": "Козятин-1 – Київ-Пас. (Північна)",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "07:49",
+                  "departure": null,
+                  "valid_from": "2026-08-02",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6231/6008",
+                  "tid": "30166",
+                  "frequency": "щоденно",
+                  "route": "Миронівка – Київ-Пас. (Приміський)",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": "08:12",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6010",
+                  "tid": "30313",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Київ-Пас. (Приміський)",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": "08:48",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6204/6012",
+                  "tid": "30588",
+                  "frequency": "щоденно",
+                  "route": "Козятин-1 – Київ-Пас. (Приміський)",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": "09:26",
+                  "departure": null,
+                  "valid_from": "2026-09-05",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6046",
+                  "tid": "23274",
+                  "frequency": "щоденно",
+                  "route": "Васильків-Центр – Київ-Пас. (Приміський)",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": "10:43",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6018",
+                  "tid": "30527",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Київ-Пас. (Приміський)",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": "13:57",
+                  "departure": null,
+                  "valid_from": "2026-08-29",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6210/6020",
+                  "tid": "30586",
+                  "frequency": "щоденно",
+                  "route": "Козятин-1 – Київ-Пас. (Приміський)",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": "15:50",
+                  "departure": null,
+                  "valid_from": "2026-09-05",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6235/6024",
+                  "tid": "30170",
+                  "frequency": "щоденно",
+                  "route": "Миронівка – Київ-Пас. (Північна)",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "17:52",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6026",
+                  "tid": "30403",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Київ-Пас. (Приміський)",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": "19:09",
+                  "departure": null,
+                  "valid_from": "2026-07-27",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6050",
+                  "tid": "25277",
+                  "frequency": "щоденно",
+                  "route": "Васильків-Центр – Київ-Пас. (Приміський)",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": "19:45",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6030",
+                  "tid": "30317",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Київ-Пас. (Приміський)",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": "21:44",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-09-08",
+      "stations": {
+        "Вересоч": {
+          "groups": [
+            {
+              "label": "На Ніжин",
+              "trains": [
+                {
+                  "number": "6302",
+                  "tid": "30085",
+                  "frequency": "щоденно",
+                  "route": "Чернігів – Ніжин",
+                  "stop": "Вересоч",
+                  "arrival": "06:29",
+                  "departure": "06:34",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "886/885",
+                  "tid": "29870",
+                  "frequency": "крім ср.",
+                  "route": "Славутич – Київ-Волинський",
+                  "stop": "Вересоч",
+                  "arrival": "06:57",
+                  "departure": "06:58",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6304",
+                  "tid": "28581",
+                  "frequency": "щоденно",
+                  "route": "Чернігів – Ніжин",
+                  "stop": "Вересоч",
+                  "arrival": "09:34",
+                  "departure": "09:35",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6308",
+                  "tid": "28588",
+                  "frequency": "щоденно",
+                  "route": "Чернігів – Ніжин",
+                  "stop": "Вересоч",
+                  "arrival": "14:49",
+                  "departure": "14:50",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6310",
+                  "tid": "30100",
+                  "frequency": "щоденно",
+                  "route": "Чернігів – Ніжин",
+                  "stop": "Вересоч",
+                  "arrival": "18:46",
+                  "departure": "18:47",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6312",
+                  "tid": "28633",
+                  "frequency": "щоденно",
+                  "route": "Чернігів – Ніжин",
+                  "stop": "Вересоч",
+                  "arrival": "21:43",
+                  "departure": "21:44",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                }
+              ]
+            },
+            {
+              "label": "З Ніжина",
+              "trains": [
+                {
+                  "number": "6301",
+                  "tid": "30084",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Чернігів",
+                  "stop": "Вересоч",
+                  "arrival": "06:32",
+                  "departure": "06:33",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6303",
+                  "tid": "30086",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Чернігів",
+                  "stop": "Вересоч",
+                  "arrival": "09:33",
+                  "departure": "09:36",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6305",
+                  "tid": "27731",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Чернігів",
+                  "stop": "Вересоч",
+                  "arrival": "13:45",
+                  "departure": "13:46",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6309",
+                  "tid": "30099",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Чернігів",
+                  "stop": "Вересоч",
+                  "arrival": "18:20",
+                  "departure": "18:21",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "886/885",
+                  "tid": "29867",
+                  "frequency": "крім ср.",
+                  "route": "Київ-Волинський – Чернігів",
+                  "stop": "Вересоч",
+                  "arrival": "20:20",
+                  "departure": "20:21",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6311",
+                  "tid": "27606",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Чернігів",
+                  "stop": "Вересоч",
+                  "arrival": "21:16",
+                  "departure": "21:17",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                }
+              ]
+            }
+          ]
+        },
+        "Носівка": {
+          "groups": [
+            {
+              "label": "На Київ",
+              "trains": [
+                {
+                  "number": "6903",
+                  "tid": "30271",
+                  "frequency": "крім сб., нд.",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Носівка",
+                  "arrival": "04:11",
+                  "departure": "04:12",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6905",
+                  "tid": "30140",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Волинський",
+                  "stop": "Носівка",
+                  "arrival": "04:35",
+                  "departure": "04:36",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6909",
+                  "tid": "30273",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Волинський",
+                  "stop": "Носівка",
+                  "arrival": "05:29",
+                  "departure": "05:30",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "893",
+                  "tid": "30535",
+                  "frequency": "щоденно",
+                  "route": "Конотоп - Пас – Київ-Пас. (Північна)",
+                  "stop": "Носівка",
+                  "arrival": "05:47",
+                  "departure": "05:48",
+                  "valid_from": "2026-08-20",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6911",
+                  "tid": "30147",
+                  "frequency": "крім сб., нд.",
+                  "route": "Ніжин – Київ-Волинський",
+                  "stop": "Носівка",
+                  "arrival": "06:18",
+                  "departure": "06:19",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "886/885",
+                  "tid": "29870",
+                  "frequency": "крім ср.",
+                  "route": "Славутич – Київ-Волинський",
+                  "stop": "Носівка",
+                  "arrival": "07:53",
+                  "departure": "07:54",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6913",
+                  "tid": "30082",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Носівка",
+                  "arrival": "08:45",
+                  "departure": "08:46",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "896/895",
+                  "tid": "29881",
+                  "frequency": "щоденно",
+                  "route": "Шостка – Фастів-1",
+                  "stop": "Носівка",
+                  "arrival": "08:54",
+                  "departure": "08:55",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6917",
+                  "tid": "30089",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Носівка",
+                  "arrival": "11:34",
+                  "departure": "11:35",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "897",
+                  "tid": "30107",
+                  "frequency": "крім пт., сб., нд.",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Носівка",
+                  "arrival": "15:08",
+                  "departure": "15:09",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6923",
+                  "tid": "30093",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Носівка",
+                  "arrival": "15:42",
+                  "departure": "15:43",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6925",
+                  "tid": "30454",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Носівка",
+                  "arrival": "17:03",
+                  "departure": "17:04",
+                  "valid_from": "2026-07-03",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "892/891",
+                  "tid": "29156",
+                  "frequency": "крім вт., чт.",
+                  "route": "Славутич – Київ-Волинський",
+                  "stop": "Носівка",
+                  "arrival": "20:02",
+                  "departure": "20:03",
+                  "valid_from": "2026-01-22",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6927",
+                  "tid": "30096",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Волинський",
+                  "stop": "Носівка",
+                  "arrival": "20:46",
+                  "departure": "20:47",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                }
+              ]
+            },
+            {
+              "label": "На Ніжин",
+              "trains": [
+                {
+                  "number": "6902",
+                  "tid": "30136",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Носівка",
+                  "arrival": "07:08",
+                  "departure": "07:09",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "892/891",
+                  "tid": "29157",
+                  "frequency": "крім вт., чт.",
+                  "route": "Фастів-1 – Славутич",
+                  "stop": "Носівка",
+                  "arrival": "09:48",
+                  "departure": "09:49",
+                  "valid_from": "2026-01-22",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6906",
+                  "tid": "30141",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Північна) – Ніжин",
+                  "stop": "Носівка",
+                  "arrival": "10:10",
+                  "departure": "10:11",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "894",
+                  "tid": "30104",
+                  "frequency": "крім пт., сб., нд.",
+                  "route": "Київ-Пас. (Північна) – Ніжин",
+                  "stop": "Носівка",
+                  "arrival": "10:42",
+                  "departure": "10:43",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6910",
+                  "tid": "30146",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Носівка",
+                  "arrival": "12:04",
+                  "departure": "12:05",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6912",
+                  "tid": "30081",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Носівка",
+                  "arrival": "14:23",
+                  "departure": "14:24",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6914",
+                  "tid": "28474",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Північна) – Ніжин",
+                  "stop": "Носівка",
+                  "arrival": "16:53",
+                  "departure": "16:54",
+                  "valid_from": "2026-08-01",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "896/895",
+                  "tid": "30584",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Шостка",
+                  "stop": "Носівка",
+                  "arrival": "18:53",
+                  "departure": "18:54",
+                  "valid_from": "2026-09-05",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6918",
+                  "tid": "30091",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Носівка",
+                  "arrival": "19:05",
+                  "departure": "19:06",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "886/885",
+                  "tid": "29867",
+                  "frequency": "крім ср.",
+                  "route": "Київ-Волинський – Чернігів",
+                  "stop": "Носівка",
+                  "arrival": "19:24",
+                  "departure": "19:25",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6920",
+                  "tid": "30092",
+                  "frequency": "крім сб., нд.",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Носівка",
+                  "arrival": "19:39",
+                  "departure": "19:40",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "898",
+                  "tid": "30366",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Носівка",
+                  "arrival": "19:57",
+                  "departure": "19:58",
+                  "valid_from": "2026-07-15",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6926",
+                  "tid": "30095",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Північна) – Ніжин",
+                  "stop": "Носівка",
+                  "arrival": "21:38",
+                  "departure": "21:39",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6928",
+                  "tid": "30097",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Носівка",
+                  "arrival": "23:07",
+                  "departure": "23:08",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                }
+              ]
+            }
+          ]
+        },
+        "Тарасівка": {
+          "groups": [
+            {
+              "label": "На Київ",
+              "trains": [
+                {
+                  "number": "6002",
+                  "tid": "30365",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Київ-Пас. (Приміський)",
+                  "stop": "Тарасівка",
+                  "arrival": "05:23",
+                  "departure": "05:24",
+                  "valid_from": "2026-07-06",
+                  "valid_to": "2027-07-06",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6004",
+                  "tid": "30080",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Київ-Пас. (Приміський)",
+                  "stop": "Тарасівка",
+                  "arrival": "06:25",
+                  "departure": "06:26",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6044",
+                  "tid": "30460",
+                  "frequency": "щоденно",
+                  "route": "Васильків-Центр – Київ-Пас. (Приміський)",
+                  "stop": "Тарасівка",
+                  "arrival": "07:08",
+                  "departure": "07:09",
+                  "valid_from": "2026-08-03",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6202/6006",
+                  "tid": "30458",
+                  "frequency": "щоденно",
+                  "route": "Козятин-1 – Київ-Пас. (Північна)",
+                  "stop": "Тарасівка",
+                  "arrival": "07:17",
+                  "departure": "07:18",
+                  "valid_from": "2026-08-02",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6231/6008",
+                  "tid": "30166",
+                  "frequency": "щоденно",
+                  "route": "Миронівка – Київ-Пас. (Приміський)",
+                  "stop": "Тарасівка",
+                  "arrival": "07:45",
+                  "departure": "07:46",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6010",
+                  "tid": "30313",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Київ-Пас. (Приміський)",
+                  "stop": "Тарасівка",
+                  "arrival": "08:23",
+                  "departure": "08:24",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6204/6012",
+                  "tid": "30588",
+                  "frequency": "щоденно",
+                  "route": "Козятин-1 – Київ-Пас. (Приміський)",
+                  "stop": "Тарасівка",
+                  "arrival": "08:53",
+                  "departure": "08:54",
+                  "valid_from": "2026-09-05",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6046",
+                  "tid": "23274",
+                  "frequency": "щоденно",
+                  "route": "Васильків-Центр – Київ-Пас. (Приміський)",
+                  "stop": "Тарасівка",
+                  "arrival": "10:19",
+                  "departure": "10:20",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6018",
+                  "tid": "30527",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Київ-Пас. (Приміський)",
+                  "stop": "Тарасівка",
+                  "arrival": "13:32",
+                  "departure": "13:33",
+                  "valid_from": "2026-08-29",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6210/6020",
+                  "tid": "30586",
+                  "frequency": "щоденно",
+                  "route": "Козятин-1 – Київ-Пас. (Приміський)",
+                  "stop": "Тарасівка",
+                  "arrival": "15:23",
+                  "departure": "15:24",
+                  "valid_from": "2026-09-05",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6235/6024",
+                  "tid": "30170",
+                  "frequency": "щоденно",
+                  "route": "Миронівка – Київ-Пас. (Північна)",
+                  "stop": "Тарасівка",
+                  "arrival": "17:24",
+                  "departure": "17:25",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6026",
+                  "tid": "30403",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Київ-Пас. (Приміський)",
+                  "stop": "Тарасівка",
+                  "arrival": "18:41",
+                  "departure": "18:42",
+                  "valid_from": "2026-07-27",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6050",
+                  "tid": "25277",
+                  "frequency": "щоденно",
+                  "route": "Васильків-Центр – Київ-Пас. (Приміський)",
+                  "stop": "Тарасівка",
+                  "arrival": "19:18",
+                  "departure": "19:19",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6030",
+                  "tid": "30317",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Київ-Пас. (Приміський)",
+                  "stop": "Тарасівка",
+                  "arrival": "21:18",
+                  "departure": "21:19",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                }
+              ]
+            },
+            {
+              "label": "З Києва",
+              "trains": [
+                {
+                  "number": "6003",
+                  "tid": "29046",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Фастів-1",
+                  "stop": "Тарасівка",
+                  "arrival": "06:23",
+                  "departure": "06:24",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6005/6236",
+                  "tid": "30382",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Миронівка",
+                  "stop": "Тарасівка",
+                  "arrival": "08:07",
+                  "departure": "08:08",
+                  "valid_from": "2026-07-15",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6043",
+                  "tid": "30265",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Васильків-Центр",
+                  "stop": "Тарасівка",
+                  "arrival": "08:47",
+                  "departure": "08:48",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6011",
+                  "tid": "30402",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Фастів-1",
+                  "stop": "Тарасівка",
+                  "arrival": "09:17",
+                  "departure": "09:18",
+                  "valid_from": "2026-07-27",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6015",
+                  "tid": "28671",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Північна) – Фастів-1",
+                  "stop": "Тарасівка",
+                  "arrival": "11:19",
+                  "departure": "11:20",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6017/6209",
+                  "tid": "30157",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Козятин-1",
+                  "stop": "Тарасівка",
+                  "arrival": "12:53",
+                  "departure": "12:54",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6023/6238",
+                  "tid": "26800",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Миронівка",
+                  "stop": "Тарасівка",
+                  "arrival": "16:12",
+                  "departure": "16:13",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6047",
+                  "tid": "30267",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Васильків-Центр",
+                  "stop": "Тарасівка",
+                  "arrival": "17:48",
+                  "departure": "17:49",
+                  "valid_from": "2026-08-29",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "7035",
+                  "tid": "30530",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Фастів-1",
+                  "stop": "Тарасівка",
+                  "arrival": "17:55",
+                  "departure": "17:56",
+                  "valid_from": "2026-08-29",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6025",
+                  "tid": "30569",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Фастів-1",
+                  "stop": "Тарасівка",
+                  "arrival": "18:05",
+                  "departure": "18:06",
+                  "valid_from": "2026-08-29",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6027/6213",
+                  "tid": "30570",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Козятин-1",
+                  "stop": "Тарасівка",
+                  "arrival": "18:57",
+                  "departure": "18:58",
+                  "valid_from": "2026-08-29",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6029",
+                  "tid": "30456",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Північна) – Фастів-1",
+                  "stop": "Тарасівка",
+                  "arrival": "20:03",
+                  "departure": "20:04",
+                  "valid_from": "2025-07-03",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6049",
+                  "tid": "30268",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Васильків-Центр",
+                  "stop": "Тарасівка",
+                  "arrival": "20:21",
+                  "departure": "20:22",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6031",
+                  "tid": "30308",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Фастів-1",
+                  "stop": "Тарасівка",
+                  "arrival": "21:04",
+                  "departure": "21:05",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6033",
+                  "tid": "30309",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Фастів-1",
+                  "stop": "Тарасівка",
+                  "arrival": "22:24",
+                  "departure": "22:25",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                }
+              ]
+            },
+            {
+              "label": "Інше",
+              "trains": [
+                {
+                  "number": "6540",
+                  "tid": "25234",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Святошин",
+                  "stop": "Тарасівка",
+                  "arrival": "06:39",
+                  "departure": "06:40",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6541",
+                  "tid": "30156",
+                  "frequency": "щоденно",
+                  "route": "Святошин – Фастів-1",
+                  "stop": "Тарасівка",
+                  "arrival": "17:29",
+                  "departure": "17:30",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                }
+              ]
+            }
+          ]
+        },
+        "Ніжин": {
+          "groups": [
+            {
+              "label": "З Києва",
+              "trains": [
+                {
+                  "number": "6902",
+                  "tid": "30136",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "07:32",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "892/891",
+                  "tid": "29157",
+                  "frequency": "крім вт., чт.",
+                  "route": "Фастів-1 – Славутич",
+                  "stop": "Ніжин",
+                  "arrival": "10:04",
+                  "departure": "10:06",
+                  "valid_from": "2026-01-22",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6906",
+                  "tid": "30141",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Північна) – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "10:33",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6910",
+                  "tid": "30146",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "12:27",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6912",
+                  "tid": "30081",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "14:49",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6914",
+                  "tid": "28474",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Північна) – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "17:20",
+                  "departure": null,
+                  "valid_from": "2026-08-01",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "896/895",
+                  "tid": "30584",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Шостка",
+                  "stop": "Ніжин",
+                  "arrival": "19:10",
+                  "departure": "19:12",
+                  "valid_from": "2026-09-05",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6918",
+                  "tid": "30091",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "19:28",
+                  "departure": null,
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "898",
+                  "tid": "30366",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "20:15",
+                  "departure": null,
+                  "valid_from": "2026-07-15",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6926",
+                  "tid": "30095",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Північна) – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "22:05",
+                  "departure": null,
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6928",
+                  "tid": "30097",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "23:34",
+                  "departure": null,
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                }
+              ]
+            },
+            {
+              "label": "На Київ",
+              "trains": [
+                {
+                  "number": "6905",
+                  "tid": "30140",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Волинський",
+                  "stop": "Ніжин",
+                  "arrival": null,
+                  "departure": "04:10",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6909",
+                  "tid": "30273",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Волинський",
+                  "stop": "Ніжин",
+                  "arrival": null,
+                  "departure": "05:05",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "893",
+                  "tid": "30535",
+                  "frequency": "щоденно",
+                  "route": "Конотоп - Пас – Київ-Пас. (Північна)",
+                  "stop": "Ніжин",
+                  "arrival": "05:30",
+                  "departure": "05:32",
+                  "valid_from": "2026-08-20",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6913",
+                  "tid": "30082",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Ніжин",
+                  "arrival": null,
+                  "departure": "08:21",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "896/895",
+                  "tid": "29881",
+                  "frequency": "щоденно",
+                  "route": "Шостка – Фастів-1",
+                  "stop": "Ніжин",
+                  "arrival": "08:34",
+                  "departure": "08:37",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6917",
+                  "tid": "30089",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Ніжин",
+                  "arrival": null,
+                  "departure": "11:10",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6923",
+                  "tid": "30093",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Ніжин",
+                  "arrival": null,
+                  "departure": "15:18",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6925",
+                  "tid": "30454",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Ніжин",
+                  "arrival": null,
+                  "departure": "16:38",
+                  "valid_from": "2026-07-03",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "892/891",
+                  "tid": "29156",
+                  "frequency": "крім вт., чт.",
+                  "route": "Славутич – Київ-Волинський",
+                  "stop": "Ніжин",
+                  "arrival": "19:44",
+                  "departure": "19:47",
+                  "valid_from": "2026-01-22",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6927",
+                  "tid": "30096",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Волинський",
+                  "stop": "Ніжин",
+                  "arrival": null,
+                  "departure": "20:22",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                }
+              ]
+            },
+            {
+              "label": "На Чернігів",
+              "trains": [
+                {
+                  "number": "6301",
+                  "tid": "30084",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Чернігів",
+                  "stop": "Ніжин",
+                  "arrival": null,
+                  "departure": "05:42",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6303",
+                  "tid": "30086",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Чернігів",
+                  "stop": "Ніжин",
+                  "arrival": null,
+                  "departure": "08:43",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6305",
+                  "tid": "27731",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Чернігів",
+                  "stop": "Ніжин",
+                  "arrival": null,
+                  "departure": "12:55",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6309",
+                  "tid": "30099",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Чернігів",
+                  "stop": "Ніжин",
+                  "arrival": null,
+                  "departure": "17:30",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "886/885",
+                  "tid": "29867",
+                  "frequency": "крім ср.",
+                  "route": "Київ-Волинський – Чернігів",
+                  "stop": "Ніжин",
+                  "arrival": "19:44",
+                  "departure": "19:47",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6311",
+                  "tid": "27606",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Чернігів",
+                  "stop": "Ніжин",
+                  "arrival": null,
+                  "departure": "20:26",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                }
+              ]
+            },
+            {
+              "label": "З Чернігова",
+              "trains": [
+                {
+                  "number": "6302",
+                  "tid": "30085",
+                  "frequency": "щоденно",
+                  "route": "Чернігів – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "07:24",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "886/885",
+                  "tid": "29870",
+                  "frequency": "крім ср.",
+                  "route": "Славутич – Київ-Волинський",
+                  "stop": "Ніжин",
+                  "arrival": "07:32",
+                  "departure": "07:35",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6304",
+                  "tid": "28581",
+                  "frequency": "щоденно",
+                  "route": "Чернігів – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "10:31",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6308",
+                  "tid": "28588",
+                  "frequency": "щоденно",
+                  "route": "Чернігів – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "15:40",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6310",
+                  "tid": "30100",
+                  "frequency": "щоденно",
+                  "route": "Чернігів – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "19:37",
+                  "departure": null,
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6312",
+                  "tid": "28633",
+                  "frequency": "щоденно",
+                  "route": "Чернігів – Ніжин",
+                  "stop": "Ніжин",
+                  "arrival": "22:34",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                }
+              ]
+            }
+          ]
+        },
+        "Київ-Волинський": {
+          "groups": []
+        },
+        "Київ-Пасажирський": {
+          "groups": [
+            {
+              "label": "На Ніжин",
+              "trains": [
+                {
+                  "number": "6902",
+                  "tid": "30136",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "04:53",
+                  "departure": "04:56",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6906",
+                  "tid": "30141",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Північна) – Ніжин",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": null,
+                  "departure": "07:52",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "892/891",
+                  "tid": "29157",
+                  "frequency": "крім вт., чт.",
+                  "route": "Фастів-1 – Славутич",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "08:18",
+                  "departure": "08:21",
+                  "valid_from": "2026-01-22",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6910",
+                  "tid": "30146",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "09:54",
+                  "departure": "09:56",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6912",
+                  "tid": "30081",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "12:09",
+                  "departure": "12:11",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6914",
+                  "tid": "28474",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Північна) – Ніжин",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": null,
+                  "departure": "14:40",
+                  "valid_from": "2026-08-01",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6918",
+                  "tid": "30091",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "16:39",
+                  "departure": "16:42",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "896/895",
+                  "tid": "30584",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Шостка",
+                  "stop": "Київ-Пас.",
+                  "arrival": "17:10",
+                  "departure": "17:25",
+                  "valid_from": "2026-09-05",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "886/885",
+                  "tid": "29867",
+                  "frequency": "крім ср.",
+                  "route": "Київ-Волинський – Чернігів",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "17:40",
+                  "departure": "17:43",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "898",
+                  "tid": "30366",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "18:19",
+                  "departure": "18:22",
+                  "valid_from": "2026-07-15",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6926",
+                  "tid": "30095",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Північна) – Ніжин",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": null,
+                  "departure": "19:24",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6928",
+                  "tid": "30097",
+                  "frequency": "щоденно",
+                  "route": "Київ-Волинський – Ніжин",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "20:48",
+                  "departure": "20:51",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                }
+              ]
+            },
+            {
+              "label": "З Ніжина",
+              "trains": [
+                {
+                  "number": "6905",
+                  "tid": "30140",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Волинський",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "06:50",
+                  "departure": "06:53",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "893",
+                  "tid": "30535",
+                  "frequency": "щоденно",
+                  "route": "Конотоп - Пас – Київ-Пас. (Північна)",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "07:27",
+                  "departure": null,
+                  "valid_from": "2026-08-20",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6909",
+                  "tid": "30273",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Волинський",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "07:51",
+                  "departure": "07:54",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "886/885",
+                  "tid": "29870",
+                  "frequency": "крім ср.",
+                  "route": "Славутич – Київ-Волинський",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "09:31",
+                  "departure": "09:34",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "896/895",
+                  "tid": "29881",
+                  "frequency": "щоденно",
+                  "route": "Шостка – Фастів-1",
+                  "stop": "Київ-Пас.",
+                  "arrival": "10:20",
+                  "departure": "10:34",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "unknown"
+                },
+                {
+                  "number": "6913",
+                  "tid": "30082",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "11:01",
+                  "departure": null,
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6917",
+                  "tid": "30089",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "13:45",
+                  "departure": null,
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6923",
+                  "tid": "30093",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "17:50",
+                  "departure": null,
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6925",
+                  "tid": "30454",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Пас. (Північна)",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "19:31",
+                  "departure": null,
+                  "valid_from": "2026-07-03",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "892/891",
+                  "tid": "29156",
+                  "frequency": "крім вт., чт.",
+                  "route": "Славутич – Київ-Волинський",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "21:29",
+                  "departure": "21:32",
+                  "valid_from": "2026-01-22",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6927",
+                  "tid": "30096",
+                  "frequency": "щоденно",
+                  "route": "Ніжин – Київ-Волинський",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "22:51",
+                  "departure": "22:54",
+                  "valid_from": "2025-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                }
+              ]
+            },
+            {
+              "label": "На Фастів",
+              "trains": [
+                {
+                  "number": "6003",
+                  "tid": "29046",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Фастів-1",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": null,
+                  "departure": "06:00",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6005/6236",
+                  "tid": "30382",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Миронівка",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": null,
+                  "departure": "07:44",
+                  "valid_from": "2026-07-15",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6043",
+                  "tid": "30265",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Васильків-Центр",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": null,
+                  "departure": "08:25",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6011",
+                  "tid": "30402",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Фастів-1",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": null,
+                  "departure": "08:53",
+                  "valid_from": "2026-07-27",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6015",
+                  "tid": "28671",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Північна) – Фастів-1",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": null,
+                  "departure": "10:56",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6017/6209",
+                  "tid": "30157",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Козятин-1",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": null,
+                  "departure": "12:30",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6023/6238",
+                  "tid": "26800",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Миронівка",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": null,
+                  "departure": "15:48",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6047",
+                  "tid": "30267",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Васильків-Центр",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": null,
+                  "departure": "17:25",
+                  "valid_from": "2026-08-29",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "7035",
+                  "tid": "30530",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Фастів-1",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": null,
+                  "departure": "17:33",
+                  "valid_from": "2026-08-29",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6025",
+                  "tid": "30569",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Фастів-1",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": null,
+                  "departure": "17:41",
+                  "valid_from": "2026-08-29",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6027/6213",
+                  "tid": "30570",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Козятин-1",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": null,
+                  "departure": "18:33",
+                  "valid_from": "2026-08-29",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6029",
+                  "tid": "30456",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Північна) – Фастів-1",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": null,
+                  "departure": "19:34",
+                  "valid_from": "2025-07-03",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6049",
+                  "tid": "30268",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Васильків-Центр",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": null,
+                  "departure": "19:57",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6031",
+                  "tid": "30308",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Фастів-1",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": null,
+                  "departure": "20:41",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                },
+                {
+                  "number": "6033",
+                  "tid": "30309",
+                  "frequency": "щоденно",
+                  "route": "Київ-Пас. (Приміський) – Фастів-1",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": null,
+                  "departure": "22:00",
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "away_from_kyiv"
+                }
+              ]
+            },
+            {
+              "label": "З Фастова",
+              "trains": [
+                {
+                  "number": "6002",
+                  "tid": "30365",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Київ-Пас. (Приміський)",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": "05:48",
+                  "departure": null,
+                  "valid_from": "2026-07-06",
+                  "valid_to": "2027-07-06",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6004",
+                  "tid": "30080",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Київ-Пас. (Приміський)",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": "06:49",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6044",
+                  "tid": "30460",
+                  "frequency": "щоденно",
+                  "route": "Васильків-Центр – Київ-Пас. (Приміський)",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": "07:42",
+                  "departure": null,
+                  "valid_from": "2026-08-03",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6202/6006",
+                  "tid": "30458",
+                  "frequency": "щоденно",
+                  "route": "Козятин-1 – Київ-Пас. (Північна)",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "07:49",
+                  "departure": null,
+                  "valid_from": "2026-08-02",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6231/6008",
+                  "tid": "30166",
+                  "frequency": "щоденно",
+                  "route": "Миронівка – Київ-Пас. (Приміський)",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": "08:12",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6010",
+                  "tid": "30313",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Київ-Пас. (Приміський)",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": "08:48",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6204/6012",
+                  "tid": "30588",
+                  "frequency": "щоденно",
+                  "route": "Козятин-1 – Київ-Пас. (Приміський)",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": "09:26",
+                  "departure": null,
+                  "valid_from": "2026-09-05",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6046",
+                  "tid": "23274",
+                  "frequency": "щоденно",
+                  "route": "Васильків-Центр – Київ-Пас. (Приміський)",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": "10:43",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6018",
+                  "tid": "30527",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Київ-Пас. (Приміський)",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": "13:57",
+                  "departure": null,
+                  "valid_from": "2026-08-29",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6210/6020",
+                  "tid": "30586",
+                  "frequency": "щоденно",
+                  "route": "Козятин-1 – Київ-Пас. (Приміський)",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": "15:50",
+                  "departure": null,
+                  "valid_from": "2026-09-05",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6235/6024",
+                  "tid": "30170",
+                  "frequency": "щоденно",
+                  "route": "Миронівка – Київ-Пас. (Північна)",
+                  "stop": "Київ-Пас. (Північна)",
+                  "arrival": "17:52",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6026",
+                  "tid": "30403",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Київ-Пас. (Приміський)",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": "19:09",
+                  "departure": null,
+                  "valid_from": "2026-07-27",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6050",
+                  "tid": "25277",
+                  "frequency": "щоденно",
+                  "route": "Васильків-Центр – Київ-Пас. (Приміський)",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": "19:45",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                },
+                {
+                  "number": "6030",
+                  "tid": "30317",
+                  "frequency": "щоденно",
+                  "route": "Фастів-1 – Київ-Пас. (Приміський)",
+                  "stop": "Київ-Пас. (Приміський)",
+                  "arrival": "21:44",
+                  "departure": null,
+                  "valid_from": "2026-06-28",
+                  "valid_to": "2026-12-12",
+                  "direction": "toward_kyiv"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
